@@ -12,7 +12,7 @@ A Basic Question And Answer Application made using Flask with Backend as MySQL
 <br>
 <h2> The Below is The How The Home Screen Looks <br>
 Here Only Answered Questions Are Visible</h2>
-<img src="https://raw.githubusercontent.com/reuben21/Question-and-Answer-Application-using-Flask-with-MySQL/master/App%20Version%203.0/home.png")
+<img src="https://github.com/raisa-caciatore/flask-project-q-and-a/blob/main/static/Home%20Page.png" alt="Error" />
 <br>
 <h3>The Below is A Basic Register Screen </h3>
 
@@ -26,7 +26,7 @@ Here Only Answered Questions Are Visible</h2>
 </ol> 
   </h3>
 
-![](https://raw.githubusercontent.com/reuben21/Question-and-Answer-Application-using-Flask-with-MySQL/master/App%20Version%202.0/Login.png)
+<img src="https://github.com/raisa-caciatore/flask-project-q-and-a/blob/main/static/UnansweredQuestions.png" alt="Error" />
 
 <h3> Asking A Specific Expert A Question </h3>
 
