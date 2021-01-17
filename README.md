@@ -21,7 +21,7 @@ Here Only Answered Questions Are Visible</h2>
 <h3>The Below is A Basic Register Screen </h3>
 <img src="https://firebasestorage.googleapis.com/v0/b/flask-q-and-a-project.appspot.com/o/repo_images%2FRegisterScreen.png?alt=media&token=d17da348-4d59-4c1e-b445-028ccb648338"  />
 <h3>The Below is A Basic Login Screen </h3>
-  <img src="https://firebasestorage.googleapis.com/v0/b/flask-q-and-a-project.appspot.com/o/repo_images%2FLoginScreen.png?alt=media&token=b103f90e-9da3-4587-b3b6-2bbeb5e92a22/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/flask-q-and-a-project.appspot.com/o/repo_images%2FLoginScreen.png?alt=media&token=b103f90e-9da3-4587-b3b6-2bbeb5e92a22"/>
 
 <h3> The Login Screen Where the follwing can sign in and get different Screen as Per their priority<br>
    <ol>
