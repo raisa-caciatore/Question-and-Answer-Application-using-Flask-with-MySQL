@@ -12,11 +12,10 @@ A Basic Question And Answer Application made using Flask with Backend as MySQL
 <br>
 <h2> The Below is The How The Home Screen Looks <br>
 Here Only Answered Questions Are Visible</h2>
-<img src="https://github.com/raisa-caciatore/flask-project-q-and-a/blob/main/static/Home%20Page.png" alt="Error" />
+<img src="https://dm2301files.storage.live.com/y4m9hxrFizWkRAntxu0Ql-Wn902Me2SVN-utxGEldPzwZrOnZlLBstJ6wK-x7h6tBEGbSXL9u69Gq1CIdfzTy4hDjyVz1b1XONND1rx0p8e0C21k15gRw2rMVspxK-jsueLPXt4Mx-0tcgP2oaIEO1-yteoxoY0vzbscd-ElMJ_LsXK9gA-FSQZNDUpa8iv2X5e?width=859&height=695&cropmode=none" width="859" height="695" style="border-radius:20px;"/>
 <br>
 <h3>The Below is A Basic Register Screen </h3>
-
-![](https://raw.githubusercontent.com/reuben21/Question-and-Answer-Application-using-Flask-with-MySQL/master/App%20Version%202.0/Register.png)
+<img src="https://dm2301files.storage.live.com/y4mmt8Cdej1nyA_M4IRFdA3_pxmZ17c_yjlxgR6J58WyVUe-ZrM-m7iyihVeepWqArGTbT3nx7OhKGaYF9jW5NbQIhbqSmbDJ1yLeGDXLRagt3Uc0Jqc5mid0OWOPfAZyocYbMIK45pRPWq_96xH62pnd9mwQ0F_HrDJii7dMlACjZW86Zo-Q1OX5gaEtdfn8j0?width=859&height=695&cropmode=none" width="859" height="695" />
 
 <h3> The Login Screen Where the follwing can sign in and get different Screen as Per their priority<br>
    <ol>
@@ -26,14 +25,15 @@ Here Only Answered Questions Are Visible</h2>
 </ol> 
   </h3>
 
-<img src="https://github.com/raisa-caciatore/flask-project-q-and-a/blob/main/static/UnansweredQuestions.png" alt="Error" />
+<img src="https://dm2301files.storage.live.com/y4myi16k7MZNJpDgfRNEFsCkTU0u3W9uJnTESg6fK4ig1kD7_6yYLx6MJXNFHdD_bYlO0liMX9724mEqQGk-MdEkPugQbR7TfsKilZC17vdF3uddeUJXu5ZCJ6BANSjHvcCJQCq8rbB4vSCNHbFo83wOqMg44yvJfEwKnyGjJwVIfzagO_krTz1ypeNNXmOQqnH?width=859&height=695&cropmode=none" width="859" height="695" />
 
 <h3> Asking A Specific Expert A Question </h3>
 
-![](https://raw.githubusercontent.com/reuben21/Question-and-Answer-Application-using-Flask-with-MySQL/master/App%20Version%202.0/askaQ.png)
+<h3> Answering A Specific Question Asked to A Specific Expert</h3>
 
-<h3>After An Admin Signs in Below is the preview of its home screen </h3>
-<img src="https://raw.githubusercontent.com/reuben21/Question-and-Answer-Application-using-Flask-with-MySQL/master/App%20Version%203.0/adminS1.png" >
-<h3> The Users Page is Only Visible to the Admin and Can be Accessed By Him/her Only</h3>
-<img src="https://raw.githubusercontent.com/reuben21/Question-and-Answer-Application-using-Flask-with-MySQL/master/App%20Version%203.0/users.png" >
-<h3>In the Above Screen Shot the Admin Can Promote A normal User to be an Expert who can answer Questions to the Users</h3>
+<img src="https://dm2301files.storage.live.com/y4m9hxrFizWkRAntxu0Ql-Wn902Me2SVN-utxGEldPzwZrOnZlLBstJ6wK-x7h6tBEGbSXL9u69Gq1CIdfzTy4hDjyVz1b1XONND1rx0p8e0C21k15gRw2rMVspxK-jsueLPXt4Mx-0tcgP2oaIEO1-yteoxoY0vzbscd-ElMJ_LsXK9gA-FSQZNDUpa8iv2X5e?width=859&height=695&cropmode=none" width="859" height="695" />
+
+<h3>After An Admin Signs in he has Acces to Users List Page where on Clicking A User he can Promote them to an Expert </h3>
+
+<img src="https://dm2301files.storage.live.com/y4m8j8n9BrN8WGYNsSBzHCXwBjnNEAAK9Sk6wyml8U6HLXm1s_CMtOa-k0X8iCnwm8_Qeh1zUovA3-nqqMOATCqrS7pk2nQ8mDKG0f-TiTevRpFdL9THt6MpqSA6nVI2iaaCQ3JJd1ldYNEalAR42TK4qyIr92IcP7lEOfZGjBNbELFyh4zxLd4AWp1IPvDdeqK?width=859&height=695&cropmode=none" width="859" height="695" />
+
